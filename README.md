@@ -1,6 +1,11 @@
-# FormatZauber
+<div align="center" width="100%">
+    <img src="./docs/images/logo.webp" width="150" />
+</div>
 
-FormatZauber will be your privacy first Application to convert your Files
+<div align="center" width="100%">
+    <h1>FormatZauber</h1>
+    <p>Privacy first application to convert files in your browser</p>
+</div>
 
 ## Concept
 
